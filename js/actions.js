@@ -1,3 +1,2 @@
 renderTables(account);
-
-/*renderTableFooter(account);*/
+summary(account);
